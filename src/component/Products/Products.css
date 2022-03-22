@@ -1,0 +1,12 @@
+.items{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    border: 1px solid gray;
+
+}
+.shoe-container{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    gap: 30px;
+  
+}
