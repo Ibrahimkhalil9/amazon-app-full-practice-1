@@ -1,7 +1,7 @@
 .list-items{
-    height: 500px;
+    height: 550px;
     width: 300px;
-    border: 2px solid tomato;
+    border: 2px solid rgb(194, 183, 181);
     margin-top: 150px;
     border-radius: 10px;
     position: relative;
@@ -30,10 +30,10 @@
 .button{
     cursor: pointer;
     width: 100%;
-    padding: 6px;
+    padding: 5px;
     border-radius: 5px;
     border: none;
-    background-color:orange;
+    background-color:rgba(255, 166, 0, 0.678);
     position: absolute;
     bottom: 0px;
     display: flex;
@@ -47,6 +47,6 @@
     font-weight: bold;
 }
 .button:hover{
-    background-color:tomato;
+    background-color:rgb(218, 162, 89);
     
 }
